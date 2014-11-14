@@ -1,0 +1,7 @@
+name = Click to edit
+description = Allows forms elements to become editable only when clicked.
+core = 7.x
+package = Utility
+version = 7.x-1.0
+scripts[] = clickedit.js
+stylesheets[all][] = clickedit.css

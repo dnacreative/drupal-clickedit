@@ -1,0 +1,26 @@
+
+.clickedit {
+  display: none;
+}
+
+.clickedit-label {
+  cursor: pointer;
+  min-height: 1em;
+  padding: 1px 2px;
+  display: inline-block;
+  min-width: 10em;
+}
+
+.clickedit-label:hover {
+  background-color: #dfd;
+}
+
+.clickedit-modified {
+  /* background-color: #efe; */
+  background-color: #ffb;
+  /* border: 1px solid red; */
+}
+
+.clickedit-modified:hover {
+  background-color: #dfd;
+}
